@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Memory Scan\MemoryScanner\MemoryScanner\bin\Debug\MemoryScanner.exe.config
+C:\Users\user\Desktop\Memory Scan\MemoryScanner\MemoryScanner\bin\Debug\MemoryScanner.exe
+C:\Users\user\Desktop\Memory Scan\MemoryScanner\MemoryScanner\bin\Debug\MemoryScanner.pdb
+C:\Users\user\Desktop\Memory Scan\MemoryScanner\MemoryScanner\bin\Debug\ProcessHacker.Common.dll
+C:\Users\user\Desktop\Memory Scan\MemoryScanner\MemoryScanner\bin\Debug\ProcessHacker.Native.dll
+C:\Users\user\Desktop\Memory Scan\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Memory Scan\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Memory Scan\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.csproj.CopyComplete
+C:\Users\user\Desktop\Memory Scan\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.exe
+C:\Users\user\Desktop\Memory Scan\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.pdb
